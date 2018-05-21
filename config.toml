@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://dreamy-bardeen-2c9445.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
