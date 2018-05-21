@@ -1,6 +1,6 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: and what is my microblog about
 comments: false
 ---
 
