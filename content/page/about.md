@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: and what is my microblog about
+subtitle: and my microblog
 comments: false
 ---
 
