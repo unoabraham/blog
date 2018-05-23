@@ -1,4 +1,6 @@
 ---
+title: "The Last of the Mohicans Movie Review"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-11T11:41:00+00:00
