@@ -1,0 +1,65 @@
+---
+title: "Social Media Sabbatical"
+tags: ["Social Media"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-13T07:33:02+00:00
+url: /529/529/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Everybody needs a social media sabbatical.
+</p>
+
+<p style="text-align: left;">
+  I realized something very deep and profound today.
+</p>
+
+<p style="text-align: left;">
+  Social media will eat you for lunch and pop the bag.
+</p>
+
+<p style="text-align: left;">
+  Think about that for a moment… let it sink in.
+</p>
+
+<p style="text-align: left;">
+  I was on Twitter, read a couple of tweets, and immediately I was incensed and angry at stupid people saying and doing stupid things.
+</p>
+
+<p style="text-align: left;">
+  Now I have always followed some good advice, namely…
+</p>
+
+> Never argue with an idiot, they will only bring you down to their level and beat you with experience.
+
+<p style="text-align: left;">
+  The Bible puts it better…
+</p>
+
+> Answer not a fool according to his folly, lest thou also be like unto him. &#8211; Proverbs 26:4
+
+<p style="text-align: left;">
+  Think of all the wonderful things you could be doing and you are missing out on because you would rather spend your time on social media.
+</p>
+
+<p style="text-align: left;">
+  There are a million other productive ways to be spending your time. Skills that will enhance the quality of your life, add profitability to your bottom line, improve your health, etc.
+</p>
+
+<p style="text-align: left;">
+  At the very least, staying off of Twitter will keep your blood pressure levels in check.
+</p>

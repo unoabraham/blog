@@ -1,0 +1,33 @@
+---
+title: "When You Have Nothing to Say"
+tags: ["Social Media"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-09T11:13:21+00:00
+url: /506/506/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  So how does that work on Twitter or social media? You don&#8217;t really have anything to say or share, but you are still expected to post something.
+</p>
+
+<p style="text-align: left;">
+  The wise and the esoteric should always be able to come up with something.
+</p>
+
+<p style="text-align: left;">
+  But what about the rest of the folks? How do you post something every day and still come up with something meaningful enough to post every day?
+</p>

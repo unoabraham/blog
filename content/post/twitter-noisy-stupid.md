@@ -1,0 +1,47 @@
+---
+title: "Twitter Continues to Be Noisy and Stupid"
+tags: ["Social Media", "Twitter"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-19T01:24:42+00:00
+url: /587/587/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Oh my, just visited Twitter to update the banner on my profile with my micro.blog details.
+</p>
+
+<p style="text-align: left;">
+  In that 5 minutes, I traversed from the Florida shooting, to marching for our lives, National drink wine day, Minnesota having most gun owners and the lowest crime rate, Japan and why guns are banned there, Japan and why abortion is banned there, how abortion kills more lives than guns, and lots of related stuff to gun control.
+</p>
+
+<p style="text-align: left;">
+  It seems for every one person who wants to take away guns, there is another who wants to replace them, or take away abortion as well.
+</p>
+
+<p style="text-align: left;">
+  I fail to see the connection.
+</p>
+
+<p style="text-align: left;">
+  Oh well, I guess folks had to move on from Black Panther.
+</p>
+
+<p style="text-align: left;">
+  Just saying, with so much noise and so much confusion how does anyone get anything done with/on Twitter.
+</p>
+
+<p style="text-align: left;">
+  Unless there is a method to the madness… and I have completely missed the boat.
+</p>

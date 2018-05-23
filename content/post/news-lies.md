@@ -1,0 +1,43 @@
+---
+title: "News Lies"
+tags: ["Social Media", "Mainstream Media"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-06T05:14:54+00:00
+url: /734/734/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Is there any truth left in news anymore?
+</p>
+
+<p style="text-align: left;">
+  Just saying.
+</p>
+
+<p style="text-align: left;">
+  If everything is an opinion.
+</p>
+
+<p style="text-align: left;">
+  Or based on &#8220;unnamed/inside&#8221; sources.
+</p>
+
+<p style="text-align: left;">
+  How much of what we are reading is actually real news?
+</p>
+
+<p style="text-align: left;">
+  Or have the media companies decided the general public doesn&#8217;t need to know the latest news?
+</p>

@@ -1,0 +1,31 @@
+---
+title: "#DeleteFacebook"
+tags: ["Facebook", "Social Media"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-24T08:33:12+00:00
+url: /946/946/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: justify;">
+  It does look like a lot of folks are really leaving Facebook. And I don&#8217;t just mean the tweets with #DeleteFacebook.
+</p>
+
+<p style="text-align: justify;">
+  Seeing a lot of folks on both the Local timeline as well as the Federated timeline with the same stated reason of having deleted Facebook and moved on.
+</p>
+
+<p style="text-align: justify;">
+  I for one thought it was just another &#8220;breaking news&#8221; that people will forget and move on. More importantly, Facebook has no alternatives, and not for a while probably.
+</p>

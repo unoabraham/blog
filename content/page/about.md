@@ -4,7 +4,7 @@ subtitle: and my microblog
 comments: false
 ---
 
-Hey, my name is Rajiv Abraham. I am a believer, audiophile, foodie, smartphone shutterbug, and geek.
+Hey, my name is Rajiv Abraham. I am a Christian, audiophile, foodie, smartphone shutterbug, and geek.
 
 This is my microblog, where I post random my posts, status updates, still photographs, and the occasional lengthy blog post. Mostly though, this is my personal social network instead of Facebook and Twitter.
 
@@ -14,9 +14,9 @@ I have however been a blogger for a very long time, and even as a kid I wrote an
 
 So why microblog? Well for starters, I got tired of posting status updates on Twitter and Facebook and then losing them (and their associated memories) just a couple of days later. We share so much of our lives and memories on social media, only to lose track of them and forget them a day later.
 
-![Hectic Work](/images/2018-05-10_18-23-47.png)
+![Hectic Work](/images/Watching Iron Man 2 01.png)
 
-![Watching Iron Man](/images/2018-05-11_17-00-58.png)
+![Watching Iron Man](/images/Watching Iron Man 2 02.png)
 
 Case in point, it took me a really long time to find them on Facebook. But they were memories and something I remembered as Avengers: Infinity War was around the corner and we were making plans to watch it.
 

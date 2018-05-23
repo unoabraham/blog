@@ -1,0 +1,41 @@
+---
+title: "See Yourself the Way God Sees You"
+tags: ["Meditation"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-08T05:29:48+00:00
+url: /503/503/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Looking back, and considering the value proposition a.k.a. the value standard one sets for themselves is how they will be perceived later on.
+</p>
+
+<p style="text-align: left;">
+  In other words, work like a dog, and don&#8217;t be surprised when you are treated like a dog.
+</p>
+
+<p style="text-align: left;">
+  The takeaway here is you set your own standard. Not so much in words, or even in &#8220;branding&#8221;. You set your standard by your actions (for the most part).
+</p>
+
+<p style="text-align: left;">
+  If you want to be valued down the line, then start paying attention to your actions in the now.
+</p>
+
+<p style="text-align: left;">
+  Another (and much better) way to increase your value proposition is to renew your mind with God&#8217;s Word and start seeing yourself as He sees you.
+</p>

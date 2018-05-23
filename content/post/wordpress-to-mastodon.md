@@ -1,0 +1,47 @@
+---
+title: "WordPress to Mastodon, a New Toot with Every New Post"
+tags: ["Social Media", "Mastodon"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-29T10:28:34+00:00
+url: /927/927/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  <a href="https://wordpress.org/" target="_blank" rel="noopener">WordPress</a> to <a href="https://mastodon.social/" target="_blank" rel="noopener">Mastodon</a>, a new toot with every new post.
+</p>
+
+<p style="text-align: left;">
+  I signed up for Mastodon a while back, but never really got around to using it.
+</p>
+
+<p style="text-align: left;">
+  Not a very social animal, have never tweeted much, so consistently tooting on Mastodon was going to be a difficult ask from the very outset.
+</p>
+
+<p style="text-align: left;">
+  Thanks to Micro.Blog I have been getting back to consistently blogging, even if it&#8217;s only status post updates. While it has been easy to syndicate my blog content to Facebook and Twitter, Mastodon has been the elusive unicorn, probably owing to its limited reach and adoption.
+</p>
+
+<p style="text-align: left;">
+  Thanks to my ninja Google search skills, I did find a couple of ways to get my new blog posts posted as toots on Mastodon.
+</p>
+
+<p style="text-align: left;">
+  So now you can <a href="https://mastodon.social/@unoabraham" target="_blank" rel="noopener">follow me on Mastodon</a>.
+</p>
+
+<p style="text-align: left;">
+  And if you&#8217;re looking to post to Mastodon from WordPress, all the steps are outlined in this <a href="https://www.hyperborea.org/journal/2017/12/mastodon-ifttt/" target="_blank" rel="noopener">tutorial</a>.
+</p>

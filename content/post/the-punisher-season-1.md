@@ -1,0 +1,43 @@
+---
+title: "The Punisher Season 1 Review"
+tags: ["The Punisher", "Jon Bernthal", "Amber Rose Revah", "Ben Barnes"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-07T14:39:23+00:00
+url: /806/806/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - TV
+format: aside
+
+---
+<p style="text-align: left;">
+  <a href="https://www.imdb.com/title/tt5675620/" target="_blank" rel="noopener">The Punisher</a> came out late last year, but I had decided to give it the miss because I was in the midst of superhero fatigue, and consequently had missed out on quite a few of the biggies like Thor: Ragnarok and Justice League.
+</p>
+
+<p style="text-align: left;">
+  Jon Bernthal is The Punisher and makes the role quite his own. His intensity and pain is palpable, and he&#8217;s completely at home playing the brooding hero, and also extremely nimble and effective in the action sequences.
+</p>
+
+<p style="text-align: left;">
+  More than that, the Netflix and Marvel team are in good form and continuing things right where they left them in The Defenders.
+</p>
+
+<p style="text-align: left;">
+  5 episodes in and binge-watching, it&#8217;s certainly exciting and entertaining. Cannot wait to wrap this series and see how it all goes down. It also sets things up nicely for my next planned Netflix show, Altered Carbon.
+</p>
+
+<p style="text-align: left;">
+  The rest of the cast, Amber Rose Revah, Ebon Moss-Bachrach, Ben Barnes, and Jaime Ray Newman are okay/operational, nobody really stands out in comparison to Jon Bernthal.
+</p>
+
+<p style="text-align: left;">
+  Deborah Ann Woll does a couple of cameos and is good eye candy, but lacks depth.
+</p>

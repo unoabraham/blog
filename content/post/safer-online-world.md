@@ -1,0 +1,53 @@
+---
+title: "A Safer Online World"
+tags: ["Online Security", "HTTPS"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-11T01:18:23+00:00
+url: /522/522/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  The world is going to be more secure soon, at least the online world thanks to Google and the Chrome browser who have been pushing for widespread adoption of SSL/HTTPS over HTTP.
+</p>
+
+<p style="text-align: left;">
+  In fact, starting sometime in July, all traffic going to HTTP will be labeled as unsafe by Chrome and possibly all of Google.
+</p>
+
+<p style="text-align: left;">
+  That basically meant my entire day was spent moving all of my websites over to HTTPS. Easily done in the end, but only once you get the hang of it.
+</p>
+
+<p style="text-align: left;">
+  It&#8217;s an easier task if you are using managed hosting, just need to set it up in Control Panel or your hosting support will help you out.
+</p>
+
+<p style="text-align: left;">
+  Since I wanted to be self-taught in everything and I use my own VPS on the likes of <a href="https://m.do.co/c/e3723356b65f" target="_blank" rel="noopener">DigitalOcean</a>, I had to actually learn how to set up, configure it, and deploy it.
+</p>
+
+<p style="text-align: left;">
+  Like I said, easy enough once you get a handle on it and there are tons of tutorial videos on YouTube that will walk you through it.
+</p>
+
+<p style="text-align: left;">
+  And now, <a href="https://abraham.uno/" target="_blank" rel="noopener">UnoAbraham</a> has a shiny new secure green padlock in the browser address bar.
+</p>
+
+<p style="text-align: left;">
+  Yay!!!
+</p>

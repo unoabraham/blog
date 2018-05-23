@@ -1,0 +1,33 @@
+---
+title: "Domain Name Apocalypse"
+tags: ["Domains"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-10T06:55:46+00:00
+url: /508/508/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  So the plan was to get a .blog domain name for a new blog idea that isn’t fitting in line with any of my existing blogs and topics. An exercise in futility, and one that makes me wonder why do folks want to buy up all name domains?
+</p>
+
+<p style="text-align: left;">
+  Cannot get an Abraham name domain that is meaningful, brandable, and short. Abraham.Blog though available is priced at $700 yearly renewal price. Not surprising it is available and expensive, otherwise it would have been snapped up and long gone.
+</p>
+
+<p style="text-align: left;">
+  So back to domain name hunting and running into <a href="https://abrah.am/" target="_blank" rel="noopener">Abraham Williams</a> yet again.
+</p>

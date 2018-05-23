@@ -1,0 +1,39 @@
+---
+title: "The Punisher Season 1 Is a Wrap"
+tags: ["The Punisher", "Jon Bernthal", "Amber Rose Revah", "Ben Barnes"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-10T11:36:23+00:00
+url: /814/814/
+mastodonAutopostPublishedNoRetoot:
+  - 1
+mastodonAutopostLastSuccessfullPostURL:
+  - https://mastodon.social/@unoabraham/99969752776064675
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - TV
+format: aside
+
+---
+<a href="https://www.imdb.com/title/tt5675620/" target="_blank" rel="noopener">The Punisher</a> Season 1 conclusion.
+
+<p style="text-align: left;">
+  Took a couple of days to wrap up season 1 of The Punisher.
+</p>
+
+<p style="text-align: left;">
+  It&#8217;s a good series, high on the entertainment quotient, and suitably rewarding and satisfying in terms of the conclusion.
+</p>
+
+<p style="text-align: left;">
+  Ben Barnes really comes into his own in the latter part of the series, though one does wish his story arc had more meat, especially the background/origins story. Despite these limitations, Ben Barnes does an excellent job portraying Billy Russo.
+</p>
+
+<p style="text-align: left;">
+  The Punisher is a good watch, and certainly recommend it, especially if you are a fan of Jon Bernthal.
+</p>

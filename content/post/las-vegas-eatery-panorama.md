@@ -1,0 +1,35 @@
+---
+title: "Las Vegas Eatery Panorama"
+tags: ["Panorama", "Photograph"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-02T05:05:19+00:00
+url: /478/478/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+tcb2_ready:
+  - 1
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Photography
+format: image
+
+---
+<p style="text-align: left;">
+  Panoramic view of Las Vegas.
+</p>
+
+<p style="text-align: left;">
+  My 3rd straight panoramic photograph going on for the 3rd straight day.
+</p>
+
+<p style="text-align: left;">
+  This is a panoramic shot of Las Vegas, a hotel, and not the city. Hope, to catch the city too soon.
+</p>
+
+![Las Vegas Eatery Panorama](/images/Las Vegas Eatery Panorama.jpg)

@@ -1,0 +1,43 @@
+---
+title: "Star Wars: The Last Jedi Movie Review"
+#tags: ["XXX", "XXX"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-18T14:54:18+00:00
+url: /853/853/
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Movie
+tags:
+  - Movie Review
+  - Star Wars
+  - 'Star Wars: The Last Jedi'
+format: aside
+
+---
+<a href="https://www.imdb.com/title/tt2527336/" target="_blank" rel="noopener">Star Wars: The Last Jedi</a> is surprisingly entertaining fare.
+
+<p style="text-align: left;">
+  One would think that after 40 years and 8 movies, a franchise would have run its course, but Star Wars: The Last Jedi proves that the franchise is alive and kicking, not to mention still having the withal to tell a story and tell it well.
+</p>
+
+<p style="text-align: left;">
+  To my mind, the original trilogy is still the greatest. The prequel trilogy also delivered and did not take away from the Star Wars mythos.
+</p>
+
+<p style="text-align: left;">
+  I wasn&#8217;t however entirely sold on the 3rd and new trilogy and while I did enjoy Star Wars: The Force Awakens, I did reserve judgment on how the franchise would progress, or seemingly be the reason for its demise. Also, while I did enjoy Rogue One: A Star Wars Story I wasn&#8217;t entirely sold on the idea of a Star Wars sub-genre or even the seemingly now coming origin stories of all its heroes like Solo: A Star Wars Story. To me, these seem to be a brazen attempt to milk the Star Wars franchise for all it&#8217;s worth.
+</p>
+
+<p style="text-align: left;">
+  But coming to Star Wars: The Last Jedi, it did deliver for me. The story did not meander too much, though I would have eliminated a couple of unwanted characters. The performances were uniformly good, as were the action sequences, and of course the SFX and the audio kicked into high gear on the home theater.
+</p>
+
+<p style="text-align: left;">
+  Star Wars: The Last Jedi sets things up nicely for the final part of this new trilogy, definitely looking forward to it.
+</p>

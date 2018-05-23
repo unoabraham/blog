@@ -1,0 +1,49 @@
+---
+title: "Deactivated My Facebook Account"
+tags: ["Facebook", "Social Media"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-14T05:01:11+00:00
+url: /532/532/
+tcb2_ready:
+  - 1
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  A follow-up to my yesterday&#8217;s post about a <a href="https://abraham.uno/529/529/" target="_blank" rel="noopener">social media sabbatical</a>.
+</p>
+
+<p style="text-align: left;">
+  Maybe it was a decision taken in haste, or maybe it was a long time coming, or maybe it is something I have been putting off doing for a long time&#8230; like ripping off the Band-Aid.
+</p>
+
+<p style="text-align: left;">
+  Whatever the reasons behind it, I ended up deactivating my Facebook account. Twitter doesn&#8217;t have the same option, it&#8217;s all or nothing so it&#8217;s alive for the moment.
+</p>
+
+<p style="text-align: left;">
+  I cannot say I feel any differently, I have never been a heavy social media user. Also, sharing everything from my morning cup of coffee to everything that&#8217;s on my mind doesn&#8217;t come easy to me. My Facebook posts/updates have been few and infrequent, and I can certainly say nobody is going to be missing me over there.
+</p>
+
+<p style="text-align: left;">
+  My better half is even more of a social media recluse, and many in her family don&#8217;t even have a Facebook account. So it&#8217;s all good on the home front too.
+</p>
+
+<p style="text-align: left;">
+  How do I feel? Not so different actually. The real goal behind my social media sabbatical was to invest that time in something better &#8211; for myself. Either to learn something new, or get better at something existing, or better still spend more time in prayer and meditation. That is something that still needs to be done, so at the moment I don&#8217;t feel any different and neither have the benefits started to accrue.
+</p>
+
+<p style="text-align: left;">
+  Early days still, but I&#8217;m liking the idea.
+</p>

@@ -1,0 +1,35 @@
+---
+title: "Chuck Season 2 Review"
+tags: ["Chuck", "TV Show"]
+author: Rajiv Abraham
+type: post
+date: 2018-04-01T11:33:03+00:00
+url: /1055/1055/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - TV
+format: aside
+
+---
+<p style="text-align: justify;">
+  Chuck Season 2 done.
+</p>
+
+<p style="text-align: justify;">
+  Had a lot of fun with this one, in fact, enjoyed it more than Season 1.
+</p>
+
+<p style="text-align: justify;">
+  While I&#8217;m excited for Season 3, going to take a break and catch up on some other shows that are pending.
+</p>
+
+<p style="text-align: justify;">
+  Scandal Season 6 is first on the agenda.
+</p>

@@ -1,0 +1,45 @@
+---
+title: "Goodbye Medium…"
+tags: ["Social Media", "Medium"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-21T05:10:40+00:00
+url: /870/870/
+mastodonAutopostPublishedNoRetoot:
+  - 1
+mastodonAutopostLastSuccessfullPostURL:
+  - https://mastodon.social/@unoabraham/99969582189435260
+mf2_syndication:
+  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99969582189435260";}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  I&#8217;ve been thinking about this, for a while in fact.
+</p>
+
+<p style="text-align: left;">
+  If the Internet and the World Wide Web needs to go back to the IndieWeb way then content silos/businesses need to stop being. And the only way that&#8217;s ever gonna happen is when people stop using them, both for reading content as well as posting to them. I suppose one could POSSE to them and use them for lead generation, but that&#8217;s outside the realm of most regular bloggers who are not marketers.
+</p>
+
+<p style="text-align: left;">
+  I have for one shut down my Facebook account, and also put my Twitter on ice, so syndication and POSSE aren&#8217;t on the agenda right now, though I might revisit it at a later date.
+</p>
+
+<p style="text-align: left;">
+  However, visiting content silos for the actual content continues to be an issue. Medium, for one, is an excellent source for content from many top bloggers and even thought leaders. Some of them don&#8217;t even have a personal blog and instead use Twitter, Medium, YouTube, and similar Web 2.0 services as their daily blog/vlog.
+</p>
+
+<p style="text-align: left;">
+  It does raise the question, how to give up on the silos and still get the content.
+</p>
+
+<p style="text-align: left;">
+  Personally for me, apart from Medium, YouTube is yet another content silo that doesn&#8217;t even have an alternative. And truth be told, I have learnt a lot of stuff from YouTube. Everything from HTML and CSS to basic coding, and even multiple projects on the Raspberry Pi, all have been possible only because of the content freely shared on YouTube.
+</p>

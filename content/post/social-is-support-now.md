@@ -1,0 +1,31 @@
+---
+title: "Social Is Support Now"
+tags: ["Amazon", "Amazon Twitter Support"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-03T05:28:24+00:00
+url: /482/482/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+Social is support now.
+
+I got locked out of my Amazon account. Nothing wrong with that, I&#8217;m perfectly fine with security that prevents any type of account hacks or will stop the bad guys from spending my money, especially without my knowledge.
+
+However, it seems locked out really means locked out in Amazon&#8217;s book. There has been absolutely no way I have been able to gain access to my account, and more importantly no way to even contact Amazon support. All of their toll-free numbers have an automated IVR response, that will politely redirect you to the Amazon website. Yes, the very same Amazon website I have been locked out of.
+
+After a couple of hours of trying everything and failing, the only way I could get through to Amazon was by getting on Twitter and <a href="https://twitter.com/AbrahamsPage/status/959288729645998081" target="_blank" rel="noopener">tweeting at them</a>.
+
+Hey Twitter, wondering why you shouldn&#8217;t be coming under the essential services act? Is there even such a thing? Seems <a href="https://en.wikipedia.org/wiki/Essential_Services_Maintenance_Act" target="_blank" rel="noopener">there is</a>.
+
+Anyways, the takeaway here is at least get an account on Twitter and learn to tweet, even if you don&#8217;t really end up using it. When the world ends, Twitter might just be the only thing that will let you get any type of help or support in your hour of need.

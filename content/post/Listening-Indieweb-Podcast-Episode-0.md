@@ -1,0 +1,59 @@
+---
+title: "Listening To An Indieweb Podcast Episode 0"
+tags: ["IndieWeb"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-27T01:52:10+00:00
+url: /909/909/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99969624894459134";}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+mastodonAutopostPublishedNoRetoot:
+  - 1
+mastodonAutopostLastSuccessfullPostURL:
+  - https://mastodon.social/@unoabraham/99969624894459134
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Source: <a href="https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/" target="_blank" rel="noopener">An Indieweb Podcast Episode 0</a>.
+</p>
+
+<p style="text-align: left;">
+  I have been putting off listening to this for a while now, but finally decided I needed to do it along with my morning tea and breakfast.
+</p>
+
+<p style="text-align: left;">
+  It all started with an article, <a href="https://eli.li/entry.php?id=20180318015703" target="_blank" rel="noopener">start considering the user</a> by Eli. I&#8217;ll not go into the details, other than to mention that while the IndieWeb is everything the proponents of free and open Internet want, it is also requiring technical abilities beyond the scope of most folks sharing on Facebook and Twitter.
+</p>
+
+<p style="text-align: left;">
+  You can listen to the podcast at either of the links below.
+</p>
+
+<p style="text-align: left;">
+  <a href="https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/" target="_blank" rel="noopener">https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/</a>
+</p>
+
+<p style="text-align: left;">
+  <a href="http://boffosocko.com/2018/03/19/an-indieweb-podcast-episode-0-considering-the-user/" target="_blank" rel="noopener">http://boffosocko.com/2018/03/19/an-indieweb-podcast-episode-0-considering-the-user/</a>
+</p>
+
+<p style="text-align: left;">
+  David and Chris cover a wide array of topics, mostly related to modern tech, the IndieWeb centered on Webmention and how it is both a replacement and not a replacement for comments, as well as the Post Kinds plug-in, a plug-in that adds to the functionality of WordPress by enabling Post Format types that let you share status updates on your blog, post photographs, share galleries, podcasts, etc.
+</p>
+
+<p style="text-align: left;">
+  Something else that caught my attention was Alexa notifying about a Webmention. Definitely piqued my interest. Would be extremely easy on blogging and posting status updates if it could be done via AI.
+</p>
+
+<p style="text-align: left;">
+  Good information that will give you a better perspective on the IndieWeb and its tenets.
+</p>

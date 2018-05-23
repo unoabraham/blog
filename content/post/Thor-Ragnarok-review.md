@@ -1,0 +1,44 @@
+---
+title: "Thor: Ragnarok Movie Review"
+author: Rajiv Abraham
+type: post
+date: 2018-03-11T10:08:41+00:00
+url: /818/818/
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Movie
+tags:
+  - Marvel Cinematic Universe
+  - Movie Review
+  - 'Thor: Ragnarok'
+format: aside
+
+---
+<p style="text-align: left;">
+  <a href="https://www.imdb.com/title/tt3501632/" target="_blank" rel="noopener">Thor: Ragnarok</a> is a lot of fun, probably the most fun I&#8217;ve had in a while, and especially in a superhero movie.
+</p>
+
+<p style="text-align: left;">
+  Black Panther was good, but also accompanied by a lot of hype that did not do any service to the movie itself.
+</p>
+
+<p style="text-align: left;">
+  On the other hand, I&#8217;d missed Thor: Ragnarok during its initial theatrical run and did not have much in the way of expectations going in to watch it on the home theater.
+</p>
+
+<p style="text-align: left;">
+  The visuals in Thor: Ragnarok are spectacular, the audio mix is good, just not something that will shake your home theater setup, but the movie itself is loads of fun.
+</p>
+
+<p style="text-align: left;">
+  Lots of good banter between the leads, comic relief interspersed with good action/CGI is a fun way to spend your Sunday afternoon, especially if accompanied by a large bowl of popcorn and soda.
+</p>
+
+<p style="text-align: left;">
+  Go ahead and watch Thor: Ragnarok already if you haven&#8217;t.
+</p>

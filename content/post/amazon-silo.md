@@ -1,0 +1,66 @@
+---
+title: "Amazon Is a Silo"
+tags: ["Amazon", "Silo"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-04T05:37:45+00:00
+url: /484/484/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Amazon is a silo.
+</p>
+
+<p style="text-align: left;">
+  It&#8217;s only the 3rd day (actually only a little over 48 hours), and 2 realizations have hit me hard.
+</p>
+
+<p style="text-align: left;">
+  Very hard.
+</p>
+
+<p style="text-align: left;">
+  The first, Amazon customer service sucks big time. This happened to a Prime customer, who has loaded money into Amazon Pay, and who is subscribed to a lot of items on Amazon, and still cannot get to customer service. I can only imagine how bad things will be for non-Prime customers.
+</p>
+
+<p style="text-align: left;">
+  The second, and also the more worrisome realization is that Amazon is a silo. I cannot access their portal or customer service, and that means…
+</p>
+
+<ol style="text-align: left;">
+  <li>
+    I cannot order any lightning deals.
+  </li>
+  <li>
+    I cannot order anything or cancel any existing orders.
+  </li>
+  <li>
+    I lose access to Amazon Prime Video and also to Prime Music, so that&#8217;s no more music or entertainment.
+  </li>
+  <li>
+    I have 6+ Amazon Echo devices that are connected to the lights, fans, AC, heating system, etc. and all of it can stop working without a moment&#8217;s notice. As of now, I have only lost access to the website and my account and Amazon Prime audio and video services. But if I do lose access to Alexa and the home automation it is tied into, I&#8217;m pretty much going to be sitting in the dark, as the devices don&#8217;t work off the grid.
+  </li>
+</ol>
+
+<p style="text-align: left;">
+  The solution though isn&#8217;t exactly an easy path to walk. One option is to go back to the dark ages and do without home automation. The other option (and the path I plan to take) is to reduce the reliance on one single silo. I do have Google Home, and the wake-up call is to integrate it more into my home automation, entertainment systems, and also the general running of the home. I will also probably have a look at Microsoft Cortana down the line and have that available too as a backup.
+</p>
+
+<p style="text-align: left;">
+  My business too will no longer be going to a single silo. I will start visiting the local grocery store and get into the habit of buying 30% to 40% of my groceries from them. I will leave 30% of my existing shopping with Amazon, as I still have Prime subscriptions to run through. More importantly, I will look to add more online portals for shopping, for everything from groceries, snacks, knickknacks, etc.
+</p>
+
+<p style="text-align: left;">
+  The takeaway here is to not be tied into a single silo. If it goes down, or you lose access for any reason, you pretty much go down too.
+</p>

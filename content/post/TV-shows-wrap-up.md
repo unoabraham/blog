@@ -1,0 +1,57 @@
+---
+title: "TV Shows That Need Wrapping up"
+tags: ["TV Shows", "TV Serials"]
+author: Rajiv Abraham
+type: post
+date: 2018-02-23T00:46:42+00:00
+url: /627/627/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - TV
+format: aside
+
+---
+<p style="text-align: left;">
+  TV shows I need to wrap up.
+</p>
+
+<p style="text-align: left;">
+  In line with yesterday&#8217;s post about starting season 2 of Designated Survivor, here are a few more that I need to wrap up, probably the final seasons for a few.
+</p>
+
+<p style="text-align: left;">
+  Off the top of my head…
+</p>
+
+<ul style="text-align: left;">
+  <li>
+    Teen Wolf, need to complete the final season.
+  </li>
+  <li>
+    Scandal, need to catch up on the penultimate season and get ready for the final season.
+  </li>
+  <li>
+    The Shannara Chronicles, might not catch up on season 2 as the show stands canceled, and it was average at best.
+  </li>
+  <li>
+    Mad Men. Yet to start this, I know I know, but life got in the way and there was always going to be time later on.
+  </li>
+  <li>
+    The Walking Dead. Need to watch season 7 and then catch up on season 8 too. Somehow lost interest after watching the first episode of season 7, probably the cliffhanger of season 6 was to blame.
+  </li>
+</ul>
+
+<p style="text-align: left;">
+  Of course, there are a few more, I just can&#8217;t remember them right now.
+</p>
+
+<p style="text-align: left;">
+  PS: Interesting fact &#8211; a year ago when I checked I was watching as many as 80+ TV shows, mostly binge-watching and catching up on all the shows I had missed out on.
+</p>

@@ -1,0 +1,39 @@
+---
+title: "Wisdom to Start the Day"
+tags: ["Wisdom"]
+author: Rajiv Abraham
+type: post
+date: 2018-01-26T02:29:48+00:00
+url: /431/431/
+mf2_mp-syndicate-to:
+  - 'a:2:{i:0;s:22:"bridgy-publish_twitter";i:1;s:23:"bridgy-publish_facebook";}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Wisdom from the ages to start your day.
+</p>
+
+<p style="text-align: left;">
+  This was fun&#8230; had a good chuckle. <a href="https://thecreative.cafe/my-stupid-journey-to-higher-wisdom-7119b83356f4" target="_blank" rel="noopener">My Stupid Journey to Higher Wisdom</a>.
+</p>
+
+<p style="text-align: left;">
+  Thank you <a href="https://medium.com/" target="_blank" rel="noopener">Medium</a>, <a href="https://thecreative.cafe/" target="_blank" rel="noopener">The Creative Cafe</a>, and thank you <a href="https://www.jefflevi.com/" target="_blank" rel="noopener">Jeff</a>.
+</p>
+
+<p style="text-align: left;">
+  It was a good read, and a good way to start the day.
+</p>
+
+<p style="text-align: left;">
+  PS: Just realized I need to still go some way with microblogging. My first and initial reaction was to share the URL on Facebook, then with a few close folks on WhatsApp. Still working on making my microblog the de facto sharing protocol.
+</p>

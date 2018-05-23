@@ -1,0 +1,27 @@
+---
+title: "A Nothing Day"
+tags: ["Life", "Meditation"]
+author: Rajiv Abraham
+type: post
+date: 2018-03-25T14:55:02+00:00
+url: /973/973/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: justify;">
+  Wow, an entire day spent doing nothing.
+</p>
+
+<p style="text-align: justify;">
+  Pure bliss!!!
+</p>
