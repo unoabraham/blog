@@ -1,0 +1,45 @@
+---
+title: "Launch Day"
+tags: ["Blog Launch", "Launch Day"]
+author: Rajiv Abraham
+type: post
+date: 2018-01-24T23:29:21+00:00
+url: /375/375/
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Launch day.
+</p>
+
+<p style="text-align: left;">
+  Planned to launch my microblog today.
+</p>
+
+<p style="text-align: left;">
+  Woke up with a really bad headache, a little past 3 a.m.
+</p>
+
+<p style="text-align: left;">
+  Shouldn&#8217;t really be a problem though, having built and deployed multiple websites on WordPress in my previous businesses.
+</p>
+
+<p style="text-align: left;">
+  But the thing is I haven&#8217;t been working the past 3+ years, and have been out of sorts with all the latest blogging platforms like Ghost or even the latest in WordPress.
+</p>
+
+<p style="text-align: left;">
+  Thankfully, all of my equipment still works, kudos to my Blue Microphone and Dragon NaturallySpeaking, the words just roll off.
+</p>
+
+<p style="text-align: left;">
+  Okay, it&#8217;s time to get back to setting up this website. Only I gotta start with reading what&#8217;s necessary and important in terms of pages to have like disclaimer, terms of service, etc.
+</p>

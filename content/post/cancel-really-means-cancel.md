@@ -1,0 +1,55 @@
+---
+title: "Don't Play with the Cancel Button"
+tags: ["Web Shenanigans", "Cancellation"]
+author: Rajiv Abraham
+type: post
+date: 2018-01-30T06:28:47+00:00
+url: /456/456/
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Musings
+format: aside
+
+---
+<p style="text-align: left;">
+  Cancel really means cancel.
+</p>
+
+<p style="text-align: left;">
+  I was playing with an old G Suite account and trying to add a new domain to it. Searching on Google led me to believe that it is easily done by starting a trial, changing the primary domain, and then canceling the trial.
+</p>
+
+<p style="text-align: left;">
+  Said instructions did not work, all I did was start the trial on a legacy G Suite account that was set up to be free for life.
+</p>
+
+<p style="text-align: left;">
+  Since I couldn&#8217;t get what I wanted, which was to change the primary domain, and I did not want to pay for something that was already mine (and free for life), I went ahead and canceled the trial.
+</p>
+
+<p style="text-align: left;">
+  That went ahead and canceled the trial and also my legacy G Suite account. Yeah, no more free G Suite account for that domain.
+</p>
+
+<p style="text-align: left;">
+  Cancer really means cancel… whoever thought of that?
+</p>
+
+<p style="text-align: left;">
+  Ah, small mercies I guess. That was not a domain I was using anyway and did not have any plans to use. Also, more importantly, I&#8217;m still mighty glad I have the legacy G Suite setup for several of the domains I am using and free for life.
+</p>
+
+<p style="text-align: left;">
+  Anyways, the takeaway here is don&#8217;t go around playing with stuff you have no idea about, especially when it comes to the mighty G.
+</p>
+
+<p style="text-align: left;">
+  And more importantly, if you click on cancel when it comes to anything Google, it really does just that.
+</p>

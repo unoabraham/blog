@@ -1,0 +1,40 @@
+---
+title: "Inorbit Mall Panorama"
+tags: ["Panorama", "Photograph"]
+author: Rajiv Abraham
+type: post
+date: 2018-01-31T05:15:29+00:00
+url: /460/460/
+featured_image: /wp-content/uploads/2018/01/Panoramic-View-from-GVK-One.jpg
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+tcb2_ready:
+  - 1
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Photography
+format: image
+
+---
+![Inorbit Mall Panorama](/images/Inorbit Panorama.jpg)
+
+<p style="text-align: left;">
+  Panoramic view from Inorbit.
+</p>
+
+<p style="text-align: left;">
+  Smartphone cameras have come a long way. I&#8217;ve even started to use them as my &#8220;main&#8221; camera most of the time, at least for the reason one is handily available all the time.
+</p>
+
+<p style="text-align: left;">
+  Even more amazing are the online galleries that let you share individual images as well as entire albums. Google Photos has been my main portal for sharing with friends and family.
+</p>
+
+<p style="text-align: left;">
+  It also does an amazing job of stitching together photographs that are related into a single panoramic view or an animated GIF.
+</p>
