@@ -1,4 +1,6 @@
 ---
+title: "Narcos Season 2 off to a Blast"
+tags: ["Narcos", "Netflix"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-10T11:21:36+00:00

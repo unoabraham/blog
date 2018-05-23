@@ -1,4 +1,6 @@
 ---
+title: "Listening to Robert Plank's Big Log and Musing about Music"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-07T04:26:19+00:00
@@ -23,6 +25,6 @@ tags:
 format: status
 
 ---
-Listening to <a href="https://www.youtube.com/watch?v=FxSsol3Zd7k" target="_blank" rel="noopener">Robert Plant&#8217;s Big Log</a>.
+Listening to Robert Plant's Big Log and thinking they don't make 'em like these anymore.
 
-And thinking they don&#8217;t make &#8217;em like these anymore.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxSsol3Zd7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

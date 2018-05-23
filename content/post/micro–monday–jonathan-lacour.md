@@ -1,4 +1,6 @@
 ---
+title: "Micro Monday Recommendation for Jonathan LaCour"
+tags: ["Micro Monday"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-09T16:34:05+00:00

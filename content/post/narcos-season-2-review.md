@@ -1,4 +1,6 @@
 ---
+title: "Narcos Season 2 Review"
+tags: ["Narcos", "Netflix"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-11T05:54:58+00:00
