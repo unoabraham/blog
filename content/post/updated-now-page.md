@@ -1,4 +1,6 @@
 ---
+title: "Updated My Now Page"
+tags: ["Now Page", "IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-18T14:37:01+00:00

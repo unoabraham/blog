@@ -1,4 +1,6 @@
 ---
+title: "Should Blogging Be Made As Easy As Tweeting 2.0"
+tags: ["Blogging", "IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-19T00:03:36+00:00
