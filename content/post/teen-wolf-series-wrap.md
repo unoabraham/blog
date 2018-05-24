@@ -1,4 +1,6 @@
 ---
+title: "Teen Wolf Series Wrap up"
+tags: ["Dylan O'Brien", "Teen Wolf", "Tyler Posey"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-21T05:32:16+00:00

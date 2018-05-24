@@ -1,4 +1,6 @@
 ---
+title: "Blogroll Confusion"
+tags: ["Blogroll", "IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-20T09:01:15+00:00
