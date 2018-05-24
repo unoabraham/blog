@@ -19,8 +19,8 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "microblogging and status updates"
-  logo = "http://res.cloudinary.com/abraham/image/upload/t_media_lib_thumb/v1526951769/Abraham.jpg"
-  favicon = "http://res.cloudinary.com/abraham/image/upload/t_media_lib_thumb/v1526951769/Abraham.jpg"
+  logo = "https://res.cloudinary.com/abraham/image/upload/t_media_lib_thumb/v1526951769/Abraham.jpg"
+  favicon = "https://res.cloudinary.com/abraham/image/upload/t_media_lib_thumb/v1526951769/Abraham.jpg"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
