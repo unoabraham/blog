@@ -1,4 +1,6 @@
 ---
+title: "WordPress Hack Fail"
+tags: ["WordPress", "Customization"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-13T10:37:51+00:00

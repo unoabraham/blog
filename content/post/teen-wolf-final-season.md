@@ -1,4 +1,6 @@
 ---
+title: "Teen Wolf Final Season Catch up"
+tags: ["Teen Wolf", "Dylan O'Brien", "Tyler Posey"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-14T10:23:04+00:00

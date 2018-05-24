@@ -1,4 +1,6 @@
 ---
+title: "Micro Monday Recommendation for Aaron Davis"
+tags: ["Micro Monday", "Micro.Blog"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-16T15:35:18+00:00

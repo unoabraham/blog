@@ -1,4 +1,6 @@
 ---
+title: "Manhunt: Unabomber Review"
+tags: ["Unabomber", "Sam Worthington", "Paul Bettany"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-12T12:51:53+00:00
