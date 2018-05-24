@@ -1,8 +1,10 @@
 ---
+title: "Do We Really Want Blogging to Be As Easy and Simple As Tweeting?"
+tags: ["Blogging", "IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-17T02:30:59+00:00
-url: /1122/1122/
+url: /1122/do-we-really-want-blogging-to-be-as-easy-and-simple-as-tweeting/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:
@@ -20,10 +22,6 @@ categories:
 format: aside
 
 ---
-<p style="text-align: left;">
-  Do we really want blogging to be as easy and simple as tweeting?
-</p>
-
 <p style="text-align: left;">
   Think on that. For a moment at least.
 </p>
