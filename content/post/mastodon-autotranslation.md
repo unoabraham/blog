@@ -1,4 +1,6 @@
 ---
+title: "Mastodon Autotranslation"
+tags: ["Mastodon", "Social Media"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-22T07:41:15+00:00

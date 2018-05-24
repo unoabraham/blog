@@ -1,4 +1,6 @@
 ---
+title: "Micro Monday Recommendation for Kevin MacWhinnie"
+tags: ["Micro Monday", "Micro.Blog"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-23T13:19:40+00:00
