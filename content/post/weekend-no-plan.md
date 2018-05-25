@@ -1,4 +1,6 @@
 ---
+title: "Weekend Plan Is No Plan"
+tags: ["Weekend"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-05T02:33:31+00:00

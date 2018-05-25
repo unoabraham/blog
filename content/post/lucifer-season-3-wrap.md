@@ -1,4 +1,6 @@
 ---
+title: "Lucifer Season 3 Finale"
+tags: ["TV Show"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-14T15:13:55+00:00

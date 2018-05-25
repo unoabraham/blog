@@ -1,4 +1,6 @@
 ---
+title: "Paradise Check in"
+tags: ["IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-07T06:55:09+00:00

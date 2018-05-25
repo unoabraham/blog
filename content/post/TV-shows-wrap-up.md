@@ -1,6 +1,6 @@
 ---
 title: "TV Shows That Need Wrapping up"
-tags: ["TV Shows", "TV Serials"]
+tags: ["TV Show"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-23T00:46:42+00:00

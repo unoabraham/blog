@@ -1,4 +1,6 @@
 ---
+title: "Phil Collins 40 Years on"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-02T12:45:52+00:00
@@ -21,8 +23,12 @@ tags:
 format: status
 
 ---
-Listening to <a href="https://www.youtube.com/watch?v=YkADj0TPrJA" target="_blank" rel="noopener">Phil Collins &#8211; In The Air Tonight</a>.
+Listening to Phil Collins - In The Air Tonight.
+
+{{<youtube YkADj0TPrJA >}}
 
 Nearly 40 years and Phil continues to rock.
 
-Edit &#8211; Gotta update with this <a href="https://www.youtube.com/watch?v=IeDMnyQzS88" target="_blank" rel="noopener">Phil Collins &#8211; In The Air Tonight LIVE HD</a> version.
+Edit: Gotta update with this Phil Collins - In The Air Tonight LIVE HD version.
+
+{{< youtube IeDMnyQzS88 >}}
