@@ -20,6 +20,7 @@ categories:
 tags:
   - Bon Jovi
   - It's My Life
+  - Music
 format: aside
 
 ---
