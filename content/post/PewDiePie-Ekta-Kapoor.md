@@ -1,4 +1,6 @@
 ---
+title: "PewDiePie Vs Ekta Kapoor Is A Lot Of Laughs"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-15T05:51:19+00:00
@@ -26,4 +28,4 @@ This is so funny…
 
 {{< youtube Q6M255BZ0HU >}}
 
-And no, I&#8217;m not getting into the war of words between Ekta Kapoor and Pewdiepie. But the video is worth watching for the laughs.
+And no, I'm not getting into the war of words between Ekta Kapoor and PewDiePie. But the video is worth watching for the laughs, and for PewDiePie's take on Indian soap operas.

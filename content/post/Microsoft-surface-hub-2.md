@@ -22,4 +22,4 @@ format: aside
 ---
 The Microsoft Surface Hub 2 is mighty impressive. Cannot wait for the day when my TV and monitor can do the same.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7DbslbKsQSk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 7DbslbKsQSk >}}
