@@ -1,4 +1,6 @@
 ---
+title: "McDonald's Fest"
+tags: ["McDonald's", "McDonald's Meal"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-28T07:01:30+00:00
@@ -20,10 +22,6 @@ categories:
 format: aside
 
 ---
-<p style="text-align: justify;">
-  <img src="https://i0.wp.com/i.imgur.com/9IMuvMu.png?ssl=1" data-recalc-dims="1" />
-</p>
+![McDonald's Meal](/images/IMG_20180504_143249.jpg "McDonald's Meal")
 
-<p style="text-align: justify;">
-  Yay&#8230; McDonald&#8217;s fest continues.
-</p>
+Yay, the McDonald's fest continues.

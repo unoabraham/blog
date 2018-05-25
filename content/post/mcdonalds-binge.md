@@ -1,6 +1,6 @@
 ---
 title: "McDonald's Binge"
-tags: ["McDonald's"]
+tags: ["McDonald's", "McDonald's Meal"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-27T07:33:25+00:00
