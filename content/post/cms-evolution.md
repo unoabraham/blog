@@ -1,4 +1,6 @@
 ---
+title: "CMS Evolution"
+tags: ["DrupalCon", "WordPress", "Drupal"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-30T13:10:43+00:00
@@ -18,10 +20,8 @@ categories:
 format: aside
 
 ---
-<p style="text-align: left;">
-  Watching an interesting talk on the various CMSes in use in the industry. The information on website spend vs. advertising spend is both surprising and revealing.
-</p>
+Watching an interesting talk on the various CMSes in use in the industry. The information on website spend vs. advertising spend is both surprising and revealing.
 
-<p style="text-align: left;">
-  <a href="https://www.youtube.com/watch?v=IvaVbPyX5eE" target="_blank" rel="noopener">DrupalCon Nashville 2018: WordPress vs Drupal: How the website industry is evolving</a>.
-</p>
+{{< youtube IvaVbPyX5eE >}}
+
+DrupalCon Nashville 2018: WordPress vs Drupal: How the website industry is evolving.

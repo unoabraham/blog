@@ -1,4 +1,6 @@
 ---
+title: "Bridgy Test"
+tags: ["IndieWeb", "Bridgy"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-29T00:17:14+00:00
