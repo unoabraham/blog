@@ -1,4 +1,6 @@
 ---
+title: "Starbucks GVK One Check in"
+tags: ["IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-09T10:00:12+00:00

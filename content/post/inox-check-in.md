@@ -1,4 +1,6 @@
 ---
+title: "INOX Check in"
+tags: ["IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-07T10:57:06+00:00

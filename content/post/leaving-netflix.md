@@ -1,4 +1,6 @@
 ---
+title: "Leaving Netflix, Really?"
+tags: ["Netflix", "Streaming"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-05T15:24:13+00:00

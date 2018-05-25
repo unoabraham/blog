@@ -1,4 +1,6 @@
 ---
+title: "GVK One Check in"
+tags: ["IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-07T08:53:29+00:00

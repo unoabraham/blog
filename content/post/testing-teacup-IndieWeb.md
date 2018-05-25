@@ -1,4 +1,6 @@
 ---
+title: "Testing Teacup, Drank Wine"
+tags: ["Teacup", "IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-08T13:28:27+00:00

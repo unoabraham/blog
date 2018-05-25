@@ -1,4 +1,6 @@
 ---
+title: "Stepping out with the Ladies"
+tags: ["Shopping", "Movie"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-07T04:53:57+00:00
