@@ -1,4 +1,6 @@
 ---
+title: "Guardians of the Galaxy Movie Review"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-27T00:45:33+00:00

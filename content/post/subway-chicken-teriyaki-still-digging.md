@@ -1,0 +1,27 @@
+---
+title: "Subway Chicken Teriyaki Salad, Still Digging It"
+tags: ["Subway", "Chicken Teriyaki Salad"]
+author: Rajiv Abraham
+type: post
+date: 2018-04-25T10:02:36+00:00
+url: /1335/1335/
+mastodonAutopostPublishedNoRetoot:
+  - 1
+mastodonAutopostLastSuccessfullPostURL:
+  - https://mastodon.social/@unoabraham/99919498927510580
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+mf2_syndication:
+  - 'a:0:{}'
+geo_weather:
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+geo_public:
+  - 1
+categories:
+  - Photography
+format: image
+
+---
+![Subway Chicken Teriyaki Salad](/images/IMG_20180422_132350.jpg "Subway Chicken Teriyaki Salad")
+
+Still digging the Chicken Teriyaki Salad.

@@ -1,4 +1,6 @@
 ---
+title: "Bon Jovi Still Rocks"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-15T23:01:30+00:00
@@ -17,7 +19,7 @@ categories:
   - Music
 tags:
   - Bon Jovi
-  - "It's My Life"
+  - It's My Life
 format: aside
 
 ---

@@ -1,4 +1,6 @@
 ---
+title: "Doctor Strange Movie Review"
+#tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-26T00:49:07+00:00
