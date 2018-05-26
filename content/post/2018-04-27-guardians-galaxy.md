@@ -4,6 +4,10 @@ title: "Guardians of the Galaxy Movie Review"
 author: Rajiv Abraham
 type: post
 date: 2018-04-27T00:45:33+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1319/1319/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

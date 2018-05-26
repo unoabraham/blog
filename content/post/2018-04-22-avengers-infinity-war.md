@@ -4,6 +4,10 @@ title: "Avengers: Infinity War, Getting Ready"
 author: Rajiv Abraham
 type: post
 date: 2018-04-22T00:51:30+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1113/1113/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

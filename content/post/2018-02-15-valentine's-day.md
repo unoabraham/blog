@@ -4,7 +4,10 @@ tags: ["Valentine's Day", "Blessings"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-15T02:02:52+00:00
-url: /538/538/
+aliases: [
+    "/538/538/",
+    "/46/valentines-day-2018/"
+]
 tcb2_ready:
   - 1
 mf2_mp-syndicate-to:

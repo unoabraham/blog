@@ -4,6 +4,10 @@ tags: ["Microcast", "Micro Monday"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-19T01:55:11+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1222/1222/
 autopost_this_post:
   - 1

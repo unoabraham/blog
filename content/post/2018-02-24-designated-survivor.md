@@ -4,6 +4,10 @@ tags: ["Designated Survivor", "Kiefer Sutherland"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-24T21:43:17+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /648/648/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

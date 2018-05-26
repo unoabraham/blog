@@ -4,6 +4,10 @@ tags: ["McDonald's", "McDonald's Meal"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-26T10:30:42+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1338/1338/
 mastodonAutopostPublishedNoRetoot:
   - 1

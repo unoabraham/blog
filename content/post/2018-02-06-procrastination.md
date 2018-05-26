@@ -4,7 +4,10 @@ tags: ["Procrastination", "Productivity"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-06T01:28:55+00:00
-url: /493/493/
+aliases: [
+    "/493/493/",
+    "/37/beating-procrastination-daily/"
+]
 tcb2_ready:
   - 1
 mf2_mp-syndicate-to:

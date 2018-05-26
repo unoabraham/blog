@@ -4,7 +4,10 @@ tags: ["Panorama", "Photograph"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-01T04:48:52+00:00
-url: /472/472/
+aliases: [
+    "/472/472/",
+    "/32/sodabottleopenerwala-panorama/"
+]
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 tcb2_ready:

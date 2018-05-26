@@ -4,6 +4,10 @@ title: "Avengers: Infinity War Movie Review"
 author: Rajiv Abraham
 type: post
 date: 2018-05-07T16:41:34+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1607/1607/
 mastodonAutopostPublishedNoRetoot:
   - 1

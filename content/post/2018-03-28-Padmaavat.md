@@ -4,6 +4,10 @@ title: "Padmaavat Movie Review"
 author: Rajiv Abraham
 type: post
 date: 2018-03-28T09:35:16+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1003/1003/
 mf2_mp-syndicate-to:
   - 'a:2:{i:0;s:22:"bridgy-publish_twitter";i:1;s:23:"bridgy-publish_facebook";}'

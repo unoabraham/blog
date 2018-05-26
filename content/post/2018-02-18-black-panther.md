@@ -3,7 +3,10 @@ title: "Black Panther Is Good, Just Not the Greatest"
 author: Rajiv Abraham
 type: post
 date: 2018-02-18T19:43:48+00:00
-url: /584/584/
+aliases: [
+    "/584/584/",
+    "/49/black-panther-is-good-just-not-the-greatest/"
+]
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

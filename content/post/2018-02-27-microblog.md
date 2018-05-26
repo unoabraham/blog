@@ -4,6 +4,10 @@ tags: ["Domains", "Microblog", "Blogging"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-27T23:39:56+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /633/633/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

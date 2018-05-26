@@ -4,6 +4,10 @@ tags: ["IndieWeb", "Micro.Blog", "WordPress"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-03T00:19:52+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /517/517/
 tcb2_ready:
   - 1

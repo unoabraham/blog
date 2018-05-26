@@ -4,6 +4,10 @@ tags: ["Micro Monday", "Micro.Blog"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-16T15:35:18+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1174/1174/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

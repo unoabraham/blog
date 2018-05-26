@@ -4,7 +4,10 @@ tags: ["Meditation", "Mindset"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-16T07:21:36+00:00
-url: /545/545/
+aliases: [
+    "/545/545/",
+    "/47/when-in-confusion/"
+]
 tcb2_ready:
   - 1
 mf2_mp-syndicate-to:

@@ -4,6 +4,10 @@ tags: ["IndieWeb", "Microblog"]
 author: Rajiv Abraham
 type: post
 date: 2018-05-04T11:59:29+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1584/1584/
 mastodonAutopostPublishedNoRetoot:
   - 1

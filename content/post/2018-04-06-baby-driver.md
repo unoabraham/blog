@@ -4,6 +4,10 @@ title: "Baby Driver Movie Review"
 author: Rajiv Abraham
 type: post
 date: 2018-04-06T15:06:31+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1075/1075/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

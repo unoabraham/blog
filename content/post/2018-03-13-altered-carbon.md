@@ -4,6 +4,10 @@ tags: ["Altered Carbon", "Netflix", "Joel Kinnaman", "James Purefoy", "Martha Hi
 author: Rajiv Abraham
 type: post
 date: 2018-03-13T13:33:30+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /823/823/
 mf2_syndication:
   - 'a:0:{}'

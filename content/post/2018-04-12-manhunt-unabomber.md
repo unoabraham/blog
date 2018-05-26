@@ -4,6 +4,10 @@ tags: ["Unabomber", "Sam Worthington", "Paul Bettany"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-12T12:51:53+00:00
+aliases: [
+    "/posts/my-original-url/",
+    "/2010/01/01/even-earlier-url.html"
+]
 url: /1117/1117/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'

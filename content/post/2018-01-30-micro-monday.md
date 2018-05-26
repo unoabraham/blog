@@ -4,7 +4,10 @@ tags: ["Micro Monday", "Micro.Blog"]
 author: Rajiv Abraham
 type: post
 date: 2018-01-30T06:46:13+00:00
-url: /458/458/
+aliases: [
+    "/458/458/",
+    "/30/micro-monday-recommendation-for-sameer-vasta/"
+]
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mastodonAutopostLastSuccessfullPostURL:

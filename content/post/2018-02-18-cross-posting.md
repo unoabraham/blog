@@ -4,7 +4,10 @@ tags: ["Social Media", "Syndication"]
 author: Rajiv Abraham
 type: post
 date: 2018-02-18T02:17:16+00:00
-url: /552/552/
+aliases: [
+    "/552/552/",
+    "/49/cross-posting-curse/"
+]
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:
