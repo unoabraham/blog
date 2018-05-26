@@ -1,5 +1,5 @@
 ---
-title: "Listening to Robert Plank's Big Log and Musing about Music"
+title: "Listening to Robert Plant's Big Log and Musing about Music"
 #tags: ["XXX", "XXX"]
 author: Rajiv Abraham
 type: post
