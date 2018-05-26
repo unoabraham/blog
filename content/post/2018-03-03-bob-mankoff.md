@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-03T10:04:12+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/656/656/",
+    "/62/bob-mankoff-is-way-too-funny/"
 ]
-url: /656/656/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

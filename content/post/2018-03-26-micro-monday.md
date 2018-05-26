@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-26T02:15:38+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/837/837/",
+    "/85/micro-monday-recommendation-for-chris-aldrich/"
 ]
-url: /837/837/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

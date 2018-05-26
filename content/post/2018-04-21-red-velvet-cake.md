@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-04-21T09:09:40+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1292/1292/",
+    "/111/craving-red-velvet-cake/"
 ]
-url: /1292/1292/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 autopost_this_post:

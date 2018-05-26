@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-02-21T05:24:00+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/599/599/",
+    "/52/jessica-jones-season-2-trailer/"
 ]
-url: /599/599/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:
@@ -30,6 +29,8 @@ format: aside
   The trailer for season 2 of Jessica Jones is out and looks good too.
 </p>
 
+{{< youtube SL4Fo6dJ3o8 >}}
+
 <p style="text-align: left;">
   Yes, I am having superhero fatigue, especially on the big screen, but that still did not stop me from watching the latest Black Panther and also enjoying it immensely.
 </p>
@@ -40,12 +41,4 @@ format: aside
 
 <p style="text-align: left;">
   That reminds I have to still catch up on The Punisher, hopefully, a long binge-watching weekend is coming up soon.
-</p>
-
-<p style="text-align: left;">
-  Oh, catch the Jessica Jones season 2 trailer below.
-</p>
-
-<p style="text-align: left;">
-  <iframe src="//www.youtube.com/embed/SL4Fo6dJ3o8" width="560" height="314" allowfullscreen="allowfullscreen"></iframe>
 </p>

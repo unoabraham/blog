@@ -1,14 +1,13 @@
 ---
-title: "IndieWebifying This Blog 2.0."
+title: "IndieWebifying This Blog 2.0"
 tags: ["IndieWeb"]
 author: Rajiv Abraham
 type: post
 date: 2018-03-22T11:45:00+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/878/878/",
+    "/81/indiewebifying-this-blog-2.0/"
 ]
-url: /878/878/
 mf2_mp-syndicate-to:
   - 'a:2:{i:0;s:22:"bridgy-publish_twitter";i:1;s:23:"bridgy-publish_facebook";}'
 mf2_syndication:

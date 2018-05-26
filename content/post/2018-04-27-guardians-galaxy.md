@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-04-27T00:45:33+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1319/1319/",
+    "/117/guardians-of-the-galaxy-movie-review/"
 ]
-url: /1319/1319/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

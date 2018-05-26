@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-17T06:25:37+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/846/846/",
+    "/76/justice-league-movie-review/"
 ]
-url: /846/846/
 mf2_syndication:
   - 'a:0:{}'
 geo_weather:

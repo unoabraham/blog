@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-23T05:32:54+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/907/907/",
+    "/82/alexa-and-reo-speedwagon/"
 ]
-url: /907/907/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

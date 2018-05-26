@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-12T05:25:09+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/820/820/",
+    "/71/micro-monday-recommendation-for-manton-reece/"
 ]
-url: /820/820/
 mastodonAutopostPublishedNoRetoot:
   - 1
 mastodonAutopostLastSuccessfullPostURL:

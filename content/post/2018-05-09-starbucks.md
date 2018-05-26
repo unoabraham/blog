@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-09T10:00:12+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1625/1625/",
+    "/129/starbucks-gvk-one-check-in/"
 ]
-url: /1625/1625/
 mf2_type:
   - 'a:1:{i:0;s:7:"h-entry";}'
 mf2_published:

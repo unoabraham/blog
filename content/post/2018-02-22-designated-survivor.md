@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-02-22T00:43:36+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/622/622/",
+    "/53/designated-survivor-season-2-playing-catch-up/"
 ]
-url: /622/622/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

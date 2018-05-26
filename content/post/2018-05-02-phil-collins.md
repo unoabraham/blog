@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-02T12:45:52+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1422/1422/",
+    "/122/phil-collins-40-years-on/"
 ]
-url: /1422/1422/
 mastodonAutopostPublishedNoRetoot:
   - 1
 mastodonAutopostLastSuccessfullPostURL:

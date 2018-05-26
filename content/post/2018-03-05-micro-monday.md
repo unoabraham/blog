@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-05T07:11:45+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/723/723/",
+    "/64/micro-monday-recommendation-for-amit-gawande/"
 ]
-url: /723/723/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

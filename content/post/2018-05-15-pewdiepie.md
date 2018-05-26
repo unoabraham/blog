@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-15T05:51:19+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1664/1664/",
+    "/135/pewdiepie-vs-ekta-kapoor-is-a-lot-of-laughs/"
 ]
-url: /1664/1664/
 mf2_syndication:
   - 'a:1:{i:0;s:54:"https://mastodon.social/@unoabraham/100031757056468568";}'
 geo_weather:

@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-04-23T23:59:36+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1268/1268/",
+    "/113/avengers-age-of-ultron-movie-review/"
 ]
-url: /1268/1268/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

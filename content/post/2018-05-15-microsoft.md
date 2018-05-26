@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-15T23:35:32+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1669/1669/",
+    "/135/microsoft-surface-hub-2/"
 ]
-url: /1669/1669/
 mf2_syndication:
   - 'a:0:{}'
 geo_weather:

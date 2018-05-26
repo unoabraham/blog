@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-07T16:41:34+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1607/1607/",
+    "/127/avengers-infinity-war-movie-review/"
 ]
-url: /1607/1607/
 mastodonAutopostPublishedNoRetoot:
   - 1
 mastodonAutopostLastSuccessfullPostURL:

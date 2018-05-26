@@ -5,10 +5,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-05-07T07:45:49+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/1600/1600/",
+    "/127/watching-avengers-infinity-war-in-3d/"
 ]
-url: /1600/1600/
 mf2_syndication:
   - 'a:1:{i:0;s:54:"https://mastodon.social/@unoabraham/100008096768414602";}'
 geo_weather:

@@ -4,10 +4,9 @@ author: Rajiv Abraham
 type: post
 date: 2018-03-16T06:19:58+00:00
 aliases: [
-    "/posts/my-original-url/",
-    "/2010/01/01/even-earlier-url.html"
+    "/844/844/",
+    "/75/batman-v-superman-dawn-of-justice-movie-review/"
 ]
-url: /844/844/
 mastodonAutopostPublishedNoRetoot:
   - 1
 mastodonAutopostLastSuccessfullPostURL:
