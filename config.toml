@@ -19,8 +19,8 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "microblogging and status updates"
-  logo = "/images/Abraham.jpg"
-  favicon = "/images/Abraham.jpg"
+  logo = "/images/Abraham150.jpg"
+  favicon = "/images/Abraham150.jpg"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -78,6 +78,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
+    name = "IndieWeb"
+    url = "page/indieweb/"
+    weight = 3
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
