@@ -8,18 +8,6 @@ aliases: [
     "/1222/1222/",
     "/109/monday-microcasts/"
 ]
-autopost_this_post:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99883632857081648
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99883608496106505";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Musings
 format: aside

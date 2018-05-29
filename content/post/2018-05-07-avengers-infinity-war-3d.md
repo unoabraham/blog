@@ -8,16 +8,6 @@ aliases: [
     "/1600/1600/",
     "/127/watching-avengers-infinity-war-in-3d/"
 ]
-mf2_syndication:
-  - 'a:1:{i:0;s:54:"https://mastodon.social/@unoabraham/100008096768414602";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/100008096768414602
 categories:
   - Movie
 tags:

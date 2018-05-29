@@ -8,16 +8,6 @@ aliases: [
     "/820/820/",
     "/71/micro-monday-recommendation-for-manton-reece/"
 ]
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99969766145831029
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Micro Monday
 format: aside

@@ -8,18 +8,6 @@ aliases: [
     "/1075/1075/",
     "/96/baby-driver-movie-review/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/100008171516622412
 categories:
   - Movie
 tags:

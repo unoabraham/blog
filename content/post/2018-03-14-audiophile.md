@@ -8,12 +8,6 @@ aliases: [
     "/827/827/",
     "/73/an-audiophile-who-doesnt-listen-to-music/"
 ]
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Music
 tags:

@@ -8,14 +8,6 @@ aliases: [
     "/1003/1003/",
     "/87/padmaavat-movie-review/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:2:{i:0;s:22:"bridgy-publish_twitter";i:1;s:23:"bridgy-publish_facebook";}'
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Movie
 tags:

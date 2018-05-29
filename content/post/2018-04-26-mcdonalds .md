@@ -8,18 +8,6 @@ aliases: [
     "/1338/1338/",
     "/116/mcdonalds-yum/"
 ]
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99925271735714534
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Photography
 format: image

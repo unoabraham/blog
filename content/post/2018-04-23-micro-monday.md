@@ -8,22 +8,6 @@ aliases: [
     "/1249/1249/",
     "/113/micro-monday-recommendation-for-kevin-macwhinnie/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-autopost_this_post:
-  - 1
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostPostNotification:
-  - 200
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99908949205336291
 categories:
   - Micro Monday
 format: aside

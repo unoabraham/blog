@@ -7,16 +7,6 @@ aliases: [
     "/844/844/",
     "/75/batman-v-superman-dawn-of-justice-movie-review/"
 ]
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99969544544798292
-mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99969544544798292";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Movie
 tags:

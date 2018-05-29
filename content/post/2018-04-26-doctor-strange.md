@@ -8,18 +8,6 @@ aliases: [
     "/1311/1311/",
     "/116/doctor-strange-movie-review/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99922998438267759";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99922998438267759
 categories:
   - Movie
 tags:

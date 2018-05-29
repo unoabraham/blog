@@ -8,16 +8,6 @@ aliases: [
     "/829/829/",
     "/78/micro-monday-recommendation-for-but-shes-a-girl/"
 ]
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99969562712181520
-mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99969562712181520";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Micro Monday
 format: aside

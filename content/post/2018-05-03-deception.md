@@ -8,16 +8,6 @@ aliases: [
     "/1418/1418/",
     "/123/deception-tv-show/"
 ]
-mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://mastodon.social/@unoabraham/99963706271471235";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99963706271471235
 categories:
   - TV
 format: aside

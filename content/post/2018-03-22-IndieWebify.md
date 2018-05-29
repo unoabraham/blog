@@ -8,21 +8,6 @@ aliases: [
     "/878/878/",
     "/81/indiewebifying-this-blog-2.0/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:2:{i:0;s:22:"bridgy-publish_twitter";i:1;s:23:"bridgy-publish_facebook";}'
-mf2_syndication:
-  - 'a:1:{i:0;s:58:"https://twitter.com/AbrahamsPage/status/976787127655649280";}'
-  - 'a:1:{i:0;s:58:"https://twitter.com/AbrahamsPage/status/976787127655649280";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-bridgy_error:
-  - 'Could not find <b>Facebook</b> account for <b>abraham.uno</b>. Check that your Facebook profile has abraham.uno in its <em>web site</em> or <em>link</em> field, then try signing up again.'
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/99969589267281979
 categories:
   - Musings
 format: aside

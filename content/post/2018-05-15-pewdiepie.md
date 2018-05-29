@@ -8,16 +8,6 @@ aliases: [
     "/1664/1664/",
     "/135/pewdiepie-vs-ekta-kapoor-is-a-lot-of-laughs/"
 ]
-mf2_syndication:
-  - 'a:1:{i:0;s:54:"https://mastodon.social/@unoabraham/100031757056468568";}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
-mastodonAutopostPublishedNoRetoot:
-  - 1
-mastodonAutopostLastSuccessfullPostURL:
-  - https://mastodon.social/@unoabraham/100031757056468568
 categories:
   - Musings
 tags:

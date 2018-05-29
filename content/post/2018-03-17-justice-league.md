@@ -8,12 +8,6 @@ aliases: [
     "/846/846/",
     "/76/justice-league-movie-review/"
 ]
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Movie
 tags:

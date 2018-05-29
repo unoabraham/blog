@@ -8,14 +8,6 @@ aliases: [
     "/601/601/",
     "/57/micro-monday-recommendation-for-scott-mcnulty/"
 ]
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:0:{}'
-geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
-geo_public:
-  - 1
 categories:
   - Micro Monday
 format: aside
