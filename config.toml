@@ -1,7 +1,7 @@
 baseurl = "https://abraham.uno/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Abraham's Microblog"
+title = "Abraham Abridged"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-112438396-8"
 
 [permalinks]
   post = "/:yearday/:title/"
@@ -44,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Rajiv Abraham"
-  website = "https://abraham.red/"
+  website = "https://nela.in/"
   email = "a@brah.am"
   facebook = "939abraham"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
@@ -83,6 +83,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
+    name = "Categories"
+    url = "categories"
+    weight = 4
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 4
+    weight = 5
