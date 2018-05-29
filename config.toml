@@ -12,6 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 googleAnalytics = "UA-112438396-8"
+lastmod = false
 
 [permalinks]
   post = "/:yearday/:title/"
