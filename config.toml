@@ -18,7 +18,7 @@ googleAnalytics = "UA-112438396-8"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "microblogging and status updates"
+  subtitle = "just sayin'"
   logo = "/images/Abraham150.jpg"
   favicon = "/images/Abraham150.jpg"
   dateFormat = "January 2, 2006"
