@@ -26,7 +26,7 @@ Now:
   * Start a travel blog.  Only bought a domain, actually bought quite a few, only I'm not sure on the name, so you can say it has moved on to the planning stage.
   * Do a roundup of all the local tea and coffee shops. Idea from <a href="https://www.manton.org/coffee-shops-austin" target="_blank" rel="noopener">Manton</a>. Going to be starting this soon... hopefully.
 
-Completed...
+Completed:
 
   * Start a linkblog. Up and running at <a href="https://abraham.link/" target="_blank" rel="noopener">Abraham's Linkblog</a>.
   * Learn Hugo, something that will add more options than WordPress, but I'm not entirely sold on the idea simply because WordPress makes it so easy to move hosts, backup, and deploy, all in a matter of minutes. Tried out Jekyll/GitHub Pages and Hugo/Netlify on a couple of domains I had lying around, but TBH I don't see them replacing WordPress anytime soon. In particular, the lack of IndieWeb integration (or the need to become a developer to integrate IndieWeb) involves a lot more work than I am willing to get into right now.
