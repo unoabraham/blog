@@ -1,4 +1,4 @@
-baseurl = "https://abraham.uno/"
+baseurl = "https://abraham.one/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Abraham Abridged"
@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "UA-112438396-8"
+googleAnalytics = "UA-112438396-5"
 lastmod = false
 
 [permalinks]
@@ -29,7 +29,7 @@ lastmod = false
   readingTime = true
   useHLJS = true
   socialShare = true
-  gcse = "000117629492333232138:nmx057vonb0" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  #gcse = "" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
