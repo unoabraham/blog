@@ -25,8 +25,6 @@ lastmod = false
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
-  rssLimit = 20
-  rssFullContent = true
   comments = false
   readingTime = true
   useHLJS = true
@@ -81,16 +79,21 @@ lastmod = false
     weight = 2
 
 [[menu.main]]
+    name = "Now"
+    url = "page/now/"
+    weight = 3
+
+[[menu.main]]
     name = "IndieWeb"
     url = "page/indieweb/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Categories"
     url = "categories"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 5
+    weight = 6
