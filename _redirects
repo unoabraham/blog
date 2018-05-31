@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://microblog.netlify.com/* https://abraham.uno/:splat 301!
+https://microblog.netlify.com/* https://abraham.one/:splat 301!
