@@ -97,3 +97,8 @@ lastmod = false
     name = "Tags"
     url = "tags"
     weight = 6
+
+[[menu.main]]
+    name = "Search"
+    url = "page/search/"
+    weight = 7
