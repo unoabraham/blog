@@ -1,12 +1,12 @@
 ---
-title: "Micro Monday Recommendation Robert Brook"
+title: "Micro Monday Recommendation for Robert Brook"
 tags: ["IndieWeb", "Micro Monday"]
 author: Rajiv Abraham
 type: post
 date: 2018-04-30T13:07:45+00:00
 aliases: [
     "/1253/1253/",
-    "/120/micro-monday-recommendation-robert-brook/"
+    "/120/micro-monday-recommendation-for-robert-brook/"
 ]
 categories:
   - Micro Monday
