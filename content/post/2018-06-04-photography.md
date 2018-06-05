@@ -5,7 +5,7 @@ lastmod: 2018-06-04T06:40:43+05:30
 draft: false
 keywords: []
 description: ""
-tags: ["Photography", "Smartphone Photography"]
+tags: ["Smartphone Photography"]
 categories: ["Photography"]
 author: "Rajiv Abraham"
 
