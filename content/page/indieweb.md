@@ -7,7 +7,13 @@ description: ""
 author: "Rajiv Abraham"
 ---
 
-This website is built on the tenets of the <a href="https://indieweb.org/" target="_blank" rel="noopener">IndieWeb</a>. 
+This website WAS built on the tenets of the <a href="https://indieweb.org/" target="_blank" rel="noopener">IndieWeb</a> back when it was running on WordPress.
+
+I have not yet updated/upgraded to the IndieWeb since moving to the static site generator Hugo. I have plans to do it, but also it will require reading up and more work as the Hugo framework is not extensible/expandable with the use of plug-ins like the WordPress framework.
+
+I am however leaving the IndieWeb links and posts intact, as they will still point folks in the right direction of owning their online identity and content.
+
+================================================
 
 What is the IndieWeb you say? In their own words…
 
