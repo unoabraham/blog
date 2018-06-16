@@ -34,7 +34,7 @@ I (and the wife) start with a lengthy 2-hour session before we start with our da
 
 On occasion I have been known to put in over 10 hours and even near to 15 hours, especially when hanging out with the greats like Pink Floyd and Led Zeppelin, but that’s a story for another day.
 
-Starting with this plan, and at the time of writing this (June 2, 2018) we have now spent the last 10 weeks listening to an eclectic mix of bands and musicians, and our experience has left us clamoring for more. The musical week starts on Saturday and ends Friday.
+Starting with this plan, and at the time of writing this (June 2, 2018) we have now spent the last 10 weeks listening to an eclectic mix of bands and musicians, and our experience has left us clamoring for more. The musical week starts on Saturday and ends Friday (the next week).
 
 After this experience, I would invite you, even urge you to set some musical goals for yourself and your family. There is something to be said about hanging out with musical greats and letting them sing to you daily.
 
