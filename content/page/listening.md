@@ -53,3 +53,4 @@ The artists and the music that we have covered so far.
 * The Beatles (May 26 to June 1, 2018)
 * The Who (June 2 to June 8, 2018)
 * ABBA (June 9 to June 15, 2018)
+* Gladys Knight (June 16 to June 22, 2018)
