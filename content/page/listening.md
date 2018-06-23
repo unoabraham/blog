@@ -54,3 +54,4 @@ The artists and the music that we have covered so far.
 * The Who (June 2 to June 8, 2018)
 * ABBA (June 9 to June 15, 2018)
 * Gladys Knight (June 16 to June 22, 2018)
+* Def Leppard (June 23 to June 29, 2018)

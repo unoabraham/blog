@@ -45,7 +45,7 @@ lastmod = false
 
 [Author]
   name = "Rajiv Abraham"
-  website = "https://nela.in/"
+  website = "https://a.brah.am/"
   email = "a@brah.am"
   facebook = "939abraham"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
@@ -93,10 +93,10 @@ lastmod = false
     #url = "page/watching/"
     #weight = 5
 
-[[menu.main]]
-    name = "IndieWeb"
-    url = "page/indieweb/"
-    weight = 6
+#[[menu.main]]
+    #name = "IndieWeb"
+    #url = "page/indieweb/"
+    #weight = 6
 
 [[menu.main]]
     name = "Categories"
