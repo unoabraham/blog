@@ -55,3 +55,4 @@ The artists and the music that we have covered so far.
 * ABBA (June 9 to June 15, 2018)
 * Gladys Knight (June 16 to June 22, 2018)
 * Def Leppard (June 23 to June 29, 2018)
+* B.B. King (June 30 to July 6, 2018)
