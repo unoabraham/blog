@@ -8,11 +8,13 @@ Most folks talk about themselves and their past on their About page.
 
 The Now page talks about what I'm doing now.
 
-Last updated on June 9, 2018.
+Last updated on June 30, 2018.
 
 Now:
 
-  * Get better at photography.
+  * Taking it easy.
+  * Spending time catching up on TV shows, primarily I need to finish season 2 of Luke Cage, the final season of Scandal, and the remaining seasons of Chuck.
+  * Get better at photography. I have since started spending a lot of time watching tutorial videos on photography tips as well as playing with the lighting and focusing the most on composition and framing.
   * Move back to and setup Synology home NAS.
   * Learn GitHub.
   * Learn PHP.
