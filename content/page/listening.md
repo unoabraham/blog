@@ -56,3 +56,4 @@ The artists and the music that we have covered so far.
 * Gladys Knight (June 16 to June 22, 2018)
 * Def Leppard (June 23 to June 29, 2018)
 * B.B. King (June 30 to July 6, 2018)
+* Billy Joel (July 7 to July 13, 2018)
