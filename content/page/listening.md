@@ -57,3 +57,4 @@ The artists and the music that we have covered so far.
 * Def Leppard (June 23 to June 29, 2018)
 * B.B. King (June 30 to July 6, 2018)
 * Billy Joel (July 7 to July 13, 2018)
+* Mariah Carey (July 14 to July 20, 2018)
