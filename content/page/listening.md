@@ -59,3 +59,4 @@ The artists and the music that we have covered so far.
 * Billy Joel (July 7 to July 13, 2018)
 * Mariah Carey (July 14 to July 20, 2018)
 * Eric Clapton (July 21 to July 27, 2018)
+* Whitney Houston (July 28 to August 3, 2018)
