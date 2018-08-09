@@ -60,3 +60,4 @@ The artists and the music that we have covered so far.
 * Mariah Carey (July 14 to July 20, 2018)
 * Eric Clapton (July 21 to July 27, 2018)
 * Whitney Houston (July 28 to August 3, 2018)
+* Michael Jackson (August 4, 2018 to August 10,2018)
