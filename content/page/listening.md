@@ -61,3 +61,5 @@ The artists and the music that we have covered so far.
 * Eric Clapton (July 21 to July 27, 2018)
 * Whitney Houston (July 28 to August 3, 2018)
 * Michael Jackson (August 4 to August 10,2018)
+* Fleetwood Mac (August 11 to August 17, 2018)
+* Aretha Franklin (August 18 to August 24, 2018)
