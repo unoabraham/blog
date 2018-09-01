@@ -63,3 +63,5 @@ The artists and the music that we have covered so far.
 * Michael Jackson (August 4 to August 10,2018)
 * Fleetwood Mac (August 11 to August 17, 2018)
 * Aretha Franklin (August 18 to August 24, 2018)
+* Bob Dylan (August 25 to August 31, 2018)
+* Creedence Clearwater Revival (September 1 to September 7, 2018)
