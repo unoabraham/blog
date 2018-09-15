@@ -65,3 +65,5 @@ The artists and the music that we have covered so far.
 * Aretha Franklin (August 18 to August 24, 2018)
 * Bob Dylan (August 25 to August 31, 2018)
 * Creedence Clearwater Revival (September 1 to September 7, 2018)
+* Lionel Richie (September 8 to September 14, 2018)
+* Duran Duran (September 15 to September 21, 2018)
