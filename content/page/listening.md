@@ -67,3 +67,5 @@ The artists and the music that we have covered so far.
 * Creedence Clearwater Revival (September 1 to September 7, 2018)
 * Lionel Richie (September 8 to September 14, 2018)
 * Duran Duran (September 15 to September 21, 2018)
+* Jimi Hendrix (September 22 to September 28, 2018)
+* Boney M. (September 29 to October 5, 2018)
