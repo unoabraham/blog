@@ -69,3 +69,4 @@ The artists and the music that we have covered so far.
 * Duran Duran (September 15 to September 21, 2018)
 * Jimi Hendrix (September 22 to September 28, 2018)
 * Boney M. (September 29 to October 5, 2018)
+* Bob Marley (October 6 to October 12, 2018)
