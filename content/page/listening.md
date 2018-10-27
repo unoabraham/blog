@@ -72,3 +72,5 @@ The artists and the music that we have covered so far.
 * Bob Marley (October 6 to October 12, 2018)
 * Deep Purple (October 13 to October 19, 2018)
 * Tom Petty (October 20 to October 26, 2018)
+* Dire Straits (October 27 to November 2, 2018)
+* Mark Knopfler (November 3 to November 9, 2018)
