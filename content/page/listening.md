@@ -74,3 +74,6 @@ The artists and the music that we have covered so far.
 * Tom Petty (October 20 to October 26, 2018)
 * Dire Straits (October 27 to November 2, 2018)
 * Mark Knopfler (November 3 to November 9, 2018)
+* Queen (November 10 to November 16, 2018)
+* Genesis (November 17 to November 23, 2018)
+* Phil Collins (November 24 to November 30, 2018)
