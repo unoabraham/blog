@@ -77,3 +77,5 @@ The artists and the music that we have covered so far.
 * Queen (November 10 to November 16, 2018)
 * Genesis (November 17 to November 23, 2018)
 * Phil Collins (November 24 to November 30, 2018)
+* Rihanna (December 1 to December 7, 2018)
+* Steely Dan (December 8 to December 14, 2018)
