@@ -79,3 +79,4 @@ The artists and the music that we have covered so far.
 * Phil Collins (November 24 to November 30, 2018)
 * Rihanna (December 1 to December 7, 2018)
 * Steely Dan (December 8 to December 14, 2018)
+* George Michael (December 15 to December 21, 2018)

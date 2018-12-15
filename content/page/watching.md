@@ -2,11 +2,11 @@
 title: "Watching"
 date: 2018-06-02T10:56:39+05:30
 lastmod: 2018-06-02T10:56:39+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
-tags: ["XXX", "XXX"]
-categories: ["XXX", "XXX"]
+#tags: ["XXX", "XXX"]
+#categories: ["XXX", "XXX"]
 author: "Rajiv Abraham"
 
 # You can also close(false) or open(true) something for this content.
@@ -20,3 +20,4 @@ reward: false
 mathjax: false
 ---
 
+Starting a new section on what I'm watching...
