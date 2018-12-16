@@ -18,7 +18,7 @@ lastmod = false
   post = "/:yearday/:title/"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+#  homeTitle = "Abraham Abridged" # Set a different text for the header on the home page
   subtitle = "just sayin'"
   logo = "/images/Abraham150.jpg"
   favicon = "/images/Abraham150.jpg"
