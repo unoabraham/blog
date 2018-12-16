@@ -1,1 +1,1 @@
-### Rajiv Abraham is a Christian, audiophile, foodie, gamer, shutterbug, geek, and occasional blogger, though he’s trying to change that last bit.
+### Abraham is a Christian, audiophile, videophile, shutterbug, gamer, geek, foodie, and occasional blogger, though he's trying to change that last bit.
