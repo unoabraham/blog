@@ -88,32 +88,27 @@ lastmod = false
     url = "page/listening/"
     weight = 4
 
-[[menu.main]]
-    name = "Watching"
-    url = "page/watching/"
-    weight = 5
-
 #[[menu.main]]
     #name = "Watching"
     #url = "page/watching/"
-    #weight = 6
+    #weight = 5
 
 #[[menu.main]]
     #name = "IndieWeb"
     #url = "page/indieweb/"
-    #weight = 7
+    #weight = 6
 
 [[menu.main]]
     name = "Categories"
     url = "categories"
-    weight = 8
+    weight = 7
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 9
+    weight = 8
 
 [[menu.main]]
     name = "Search"
     url = "page/search/"
-    weight = 10
+    weight = 9
