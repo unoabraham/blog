@@ -20,7 +20,7 @@ reward: false
 mathjax: false
 ---
 
-Watching is more like a watched list. The idea is to have a best of lists culled from the internet that I've watched with a line or two of my thoughts on it. I will be starting with the IMDb Top 250 movies list, and keep adding as I go along.
+Watching is more like a watched list. The idea is to have a best of lists culled from the internet that I've watched with a line or two of my thoughts on it. I will be starting with the IMDb Top 250 movies list, as well as the Top TV Shows, and keep adding as I go along.
 
 * [IMDb Top 250 Movies] (https://abraham.one/page/imdb-movie-top-250/).
 * [IMDB Top TV Series With Rating Count Of At Least 10,000] (https://abraham.one/page/imdb-tv-top-10000/).
