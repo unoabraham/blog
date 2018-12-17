@@ -1,7 +1,7 @@
 ---
-title: "Watching"
-date: 2018-06-02T10:56:39+05:30
-lastmod: 2018-06-02T10:56:39+05:30
+title: "IMDb Top 250 Movies"
+date: 2018-12-17T10:51:59+05:30
+lastmod: 2018-12-17T10:51:59+05:30
 draft: false
 keywords: []
 description: ""
@@ -20,7 +20,5 @@ reward: false
 mathjax: false
 ---
 
-Watching is more like a watched list. The idea is to have a best of lists culled from the internet that I've watched with a line or two of my thoughts on it. I will be starting with the IMDb Top 250 movies list, and keep adding as I go along.
-
-* IMDb Top 250 Movies.
-* IMDB Top TV Series With Rating Count Of At Least 10,000.
+* The Shawshank Redemption (1994) - I liked it, even enjoyed it, but always felt it was over-rated. Certainly not my pick for the top movie.
+* The Godfather (1972) - The best and the most definitive mafia genre movie. Really lacks nothing and still holds up very well. Perfect 10/10 score.

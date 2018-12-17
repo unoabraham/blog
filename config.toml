@@ -88,10 +88,10 @@ lastmod = false
     url = "page/listening/"
     weight = 4
 
-#[[menu.main]]
-    #name = "Watching"
-    #url = "page/watching/"
-    #weight = 5
+[[menu.main]]
+    name = "Watching"
+    url = "page/watching/"
+    weight = 5
 
 #[[menu.main]]
     #name = "IndieWeb"
