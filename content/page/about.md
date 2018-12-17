@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: and my microblog
+subtitle: and my blog
 comments: false
 date: 2018-01-24T23:29:21+00:00
 ---
