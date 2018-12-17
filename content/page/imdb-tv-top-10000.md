@@ -21,4 +21,4 @@ mathjax: false
 ---
 
 * The Filthy Frank Show (2011–2017) - Have to catch up on it.
-* Game of Thrones (2011–2019) - The best there is, and no wo ways about it. An absolute must watch. 
+* Game of Thrones (2011–2019) - The best there is, and no two ways about it. An absolute must watch. 
