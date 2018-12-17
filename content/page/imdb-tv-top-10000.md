@@ -1,5 +1,5 @@
 ---
-title: "IMDB Top TV Series With Rating Count Of At Least 10,000"
+title: "IMDB Top TV"
 date: 2018-12-17T10:52:31+05:30
 lastmod: 2018-12-17T10:52:31+05:30
 draft: false

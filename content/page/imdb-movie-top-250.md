@@ -1,5 +1,5 @@
 ---
-title: "IMDb Top 250 Movies"
+title: "IMDb Top Movies"
 date: 2018-12-17T10:51:59+05:30
 lastmod: 2018-12-17T10:51:59+05:30
 draft: false
