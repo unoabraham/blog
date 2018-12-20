@@ -13,6 +13,12 @@ categories:
 tags:
   - Baby Driver
   - Movie Review
+  - Ansel Elgort
+  - Lily James
+  - Jon Hamm
+  - Jamie Foxx
+  - Kevin Spacey
+  - Jon Bernthal
 format: aside
 
 ---
